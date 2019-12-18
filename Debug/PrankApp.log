@@ -1,0 +1,13 @@
+﻿  PrankApp.cpp
+C:\Users\gyime\source\repos\PrankApp\PrankApp.cpp(11,12): warning C4129: 'm': unrecognized character escape sequence
+C:\Users\gyime\source\repos\PrankApp\PrankApp.cpp(12,12): warning C4129: 'm': unrecognized character escape sequence
+C:\Users\gyime\source\repos\PrankApp\PrankApp.cpp(13,12): warning C4129: 'm': unrecognized character escape sequence
+C:\Users\gyime\source\repos\PrankApp\PrankApp.cpp(14,12): warning C4129: 'm': unrecognized character escape sequence
+C:\Users\gyime\source\repos\PrankApp\PrankApp.cpp(15,12): warning C4129: 'm': unrecognized character escape sequence
+C:\Users\gyime\source\repos\PrankApp\PrankApp.cpp(16,12): warning C4129: 'm': unrecognized character escape sequence
+C:\Users\gyime\source\repos\PrankApp\PrankApp.cpp(17,12): warning C4129: 'm': unrecognized character escape sequence
+C:\Users\gyime\source\repos\PrankApp\PrankApp.cpp(18,12): warning C4129: 'm': unrecognized character escape sequence
+C:\Users\gyime\source\repos\PrankApp\PrankApp.cpp(19,12): warning C4129: 'm': unrecognized character escape sequence
+C:\Users\gyime\source\repos\PrankApp\PrankApp.cpp(47,20): warning C4129: 'm': unrecognized character escape sequence
+C:\Users\gyime\source\repos\PrankApp\PrankApp.cpp(52,20): warning C4129: 'm': unrecognized character escape sequence
+  PrankApp.vcxproj -> C:\Users\gyime\source\repos\PrankApp\Debug\PrankApp.exe
