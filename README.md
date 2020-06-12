@@ -1,7 +1,7 @@
 # PrankApp
 Random app used for pranking people
 -----------------------------------
-Just a quick C++ project, I mainly wrote it, as a challange
+Just a quick C++ project, I mainly wrote it as a challange, or a joke more than anything.
 # Payloads
 -----------------------------------
 The program starts of by dropping some VBS scripts, than executing them.
